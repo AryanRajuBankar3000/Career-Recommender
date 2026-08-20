@@ -1,0 +1,24 @@
+Jane Smith
+Software Engineer | jane.smith@email.com
+
+SUMMARY
+Software engineer with 4 years of experience building web applications
+and internal tools. Comfortable across the stack, with a growing interest
+in data-heavy projects.
+
+SKILLS
+Python, JavaScript, SQL, React, Django, HTML, CSS, Git, AWS, Docker, Agile,
+Excel, Communication, Project Management
+
+EXPERIENCE
+Backend Developer, Acme Corp (2022 - Present)
+- Built and maintained REST APIs using Django and PostgreSQL.
+- Deployed services to AWS using Docker.
+- Collaborated with a small Agile team to ship features on a 2-week cycle.
+
+Frontend Developer, Beta Inc (2020 - 2022)
+- Built responsive UI components with React, HTML, and CSS.
+- Worked closely with designers using Figma handoffs.
+
+EDUCATION
+B.S. Computer Science

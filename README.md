@@ -1,4 +1,4 @@
-# 🎯 AI Career Reality Check
+ AI Career Reality Check
 
 A small ML/NLP project that reads someone's resume, compares it against
 what they *say* they want to do, and gives an honest, skill-based
